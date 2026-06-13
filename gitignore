@@ -1,1 +1,11 @@
 data/
+models/
+outputs/
+
+*.pt
+*.onnx
+
+__pycache__/
+*.pyc
+
+.ipynb_checkpoints/
